@@ -27,4 +27,10 @@ qewqew
 
 TEST
 TEST
+<<<<<<< HEAD
 12312311TEST
+=======
+TEST
+
+안녕ㅎ세요
+>>>>>>> feat1
